@@ -1,0 +1,1 @@
+A live analog clock built using html,css and js.It accurately reflects the current time ,ensuring real-time updates.Futhur,as it has been employed using JS to handle time calculations and it make the clock hand move accurately in real-time.
